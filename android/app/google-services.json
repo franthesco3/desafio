@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363031998930",
+    "project_id": "desafio-cbec9",
+    "storage_bucket": "desafio-cbec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363031998930:android:b4bba7292c3c082dba180b",
+        "android_client_info": {
+          "package_name": "com.example.desafio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363031998930-o54sooji879gphn6fvk8u20herirf9ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm--HKXVtJi7_aMHx4eX8ldzwvVSP2IbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363031998930-o54sooji879gphn6fvk8u20herirf9ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
